@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jorgemario503
 - 👀 I’m interested in learning new stuff
-- 🌱 I’m currently exploring ML projects: Data Pipelines, MLOps, Risk & Marketing Models
+- 🌱 I’m currently working on these projects: Data Pipelines, ML for Risk & Marketing, MLOps, LLM
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 You can reach me via twitter @jorgemario503 or via linkedin https://sv.linkedin.com/in/jorge-mario-melendez
 
